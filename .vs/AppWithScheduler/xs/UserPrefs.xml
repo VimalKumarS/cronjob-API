@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{B2414B12-3542-417C-BB76-141DCBFA441C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppWithScheduler/Code/Scheduling/SchedulerHostedService.cs">
+    <Files>
+      <File FileName="AppWithScheduler/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="AppWithScheduler/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="AppWithScheduler/Startup.cs" Line="40" Column="34" />
+      <File FileName="AppWithScheduler/Code/Scheduling/SchedulerHostedService.cs" Line="50" Column="1" />
+      <File FileName="AppWithScheduler/Code/Scheduling/SchedulerExtensions.cs" Line="15" Column="54" />
+      <File FileName="AppWithScheduler/Code/QuoteOfTheDayTask.cs" Line="14" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/vimalsinghal/dexter/C_SharpSampleConcept/quatrz-schdule/AppWithScheduler/Code/QuoteOfTheDayTask.cs" relfile="AppWithScheduler/Code/QuoteOfTheDayTask.cs" line="22" column="26" />
+      <Breakpoint file="/Users/vimalsinghal/dexter/C_SharpSampleConcept/quatrz-schdule/AppWithScheduler/Code/Scheduling/SchedulerHostedService.cs" relfile="AppWithScheduler/Code/Scheduling/SchedulerHostedService.cs" line="46" column="1" />
+      <Breakpoint file="/Users/vimalsinghal/dexter/C_SharpSampleConcept/quatrz-schdule/AppWithScheduler/Code/Scheduling/SchedulerHostedService.cs" relfile="AppWithScheduler/Code/Scheduling/SchedulerHostedService.cs" line="44" column="1" />
+      <Breakpoint file="/Users/vimalsinghal/dexter/C_SharpSampleConcept/quatrz-schdule/AppWithScheduler/Code/Scheduling/SchedulerHostedService.cs" relfile="AppWithScheduler/Code/Scheduling/SchedulerHostedService.cs" line="92" column="1" />
+      <Breakpoint file="/Users/vimalsinghal/dexter/C_SharpSampleConcept/quatrz-schdule/AppWithScheduler/Code/Scheduling/SchedulerHostedService.cs" relfile="AppWithScheduler/Code/Scheduling/SchedulerHostedService.cs" line="48" column="1" />
+      <Breakpoint file="/Users/vimalsinghal/dexter/C_SharpSampleConcept/quatrz-schdule/AppWithScheduler/Code/Scheduling/SchedulerHostedService.cs" relfile="AppWithScheduler/Code/Scheduling/SchedulerHostedService.cs" line="19" column="1" />
+      <Breakpoint file="/Users/vimalsinghal/dexter/C_SharpSampleConcept/quatrz-schdule/AppWithScheduler/Code/Scheduling/SchedulerHostedService.cs" relfile="AppWithScheduler/Code/Scheduling/SchedulerHostedService.cs" line="18" column="1" />
+      <Breakpoint file="/Users/vimalsinghal/dexter/C_SharpSampleConcept/quatrz-schdule/AppWithScheduler/Code/Scheduling/SchedulerHostedService.cs" relfile="AppWithScheduler/Code/Scheduling/SchedulerHostedService.cs" line="20" column="1" />
+      <Breakpoint file="/Users/vimalsinghal/dexter/C_SharpSampleConcept/quatrz-schdule/AppWithScheduler/Code/Scheduling/SchedulerHostedService.cs" relfile="AppWithScheduler/Code/Scheduling/SchedulerHostedService.cs" line="50" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AppWithScheduler PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

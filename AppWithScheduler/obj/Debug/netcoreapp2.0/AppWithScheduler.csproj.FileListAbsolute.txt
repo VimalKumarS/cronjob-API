@@ -1,0 +1,11 @@
+/Users/vimalsinghal/dexter/C_SharpSampleConcept/quatrz-schdule/AppWithScheduler/bin/Debug/netcoreapp2.0/AppWithScheduler.deps.json
+/Users/vimalsinghal/dexter/C_SharpSampleConcept/quatrz-schdule/AppWithScheduler/bin/Debug/netcoreapp2.0/AppWithScheduler.runtimeconfig.json
+/Users/vimalsinghal/dexter/C_SharpSampleConcept/quatrz-schdule/AppWithScheduler/bin/Debug/netcoreapp2.0/AppWithScheduler.runtimeconfig.dev.json
+/Users/vimalsinghal/dexter/C_SharpSampleConcept/quatrz-schdule/AppWithScheduler/bin/Debug/netcoreapp2.0/AppWithScheduler.dll
+/Users/vimalsinghal/dexter/C_SharpSampleConcept/quatrz-schdule/AppWithScheduler/bin/Debug/netcoreapp2.0/AppWithScheduler.pdb
+/Users/vimalsinghal/dexter/C_SharpSampleConcept/quatrz-schdule/AppWithScheduler/obj/Debug/netcoreapp2.0/AppWithScheduler.csprojResolveAssemblyReference.cache
+/Users/vimalsinghal/dexter/C_SharpSampleConcept/quatrz-schdule/AppWithScheduler/obj/Debug/netcoreapp2.0/AppWithScheduler.csproj.CoreCompileInputs.cache
+/Users/vimalsinghal/dexter/C_SharpSampleConcept/quatrz-schdule/AppWithScheduler/obj/Debug/netcoreapp2.0/AppWithScheduler.AssemblyInfoInputs.cache
+/Users/vimalsinghal/dexter/C_SharpSampleConcept/quatrz-schdule/AppWithScheduler/obj/Debug/netcoreapp2.0/AppWithScheduler.AssemblyInfo.cs
+/Users/vimalsinghal/dexter/C_SharpSampleConcept/quatrz-schdule/AppWithScheduler/obj/Debug/netcoreapp2.0/AppWithScheduler.dll
+/Users/vimalsinghal/dexter/C_SharpSampleConcept/quatrz-schdule/AppWithScheduler/obj/Debug/netcoreapp2.0/AppWithScheduler.pdb
